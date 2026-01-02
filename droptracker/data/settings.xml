@@ -1,0 +1,24 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <bg>
+            <alpha>180</alpha>
+            <blue>0</blue>
+            <green>0</green>
+            <red>0</red>
+        </bg>
+        <pos>
+            <x>300</x>
+            <y>300</y>
+        </pos>
+        <prices>
+            <Codex of Vigilance>150000</Codex of Vigilance>
+            <Etched Memory>50000</Etched Memory>
+        </prices>
+        <text>
+            <alpha>255</alpha>
+            <font>Consolas</font>
+            <size>10</size>
+        </text>
+    </global>
+</settings>
